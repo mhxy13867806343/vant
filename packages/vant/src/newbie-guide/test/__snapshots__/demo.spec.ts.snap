@@ -1,0 +1,26 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`should render demo and match snapshot 1`] = `
+<div>
+  <div class="demo-newbie-guide">
+    <van-button type="primary">
+      Show Guide
+    </van-button>
+    <div class="step-1">
+      <van-button>
+        This is step 1 guide
+      </van-button>
+    </div>
+    <div class="step-2">
+      <van-button>
+        This is step 2 guide
+      </van-button>
+    </div>
+    <van-newbie-guide
+      show="false"
+      steps="[object Object],[object Object]"
+    >
+    </van-newbie-guide>
+  </div>
+</div>
+`;

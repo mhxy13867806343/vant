@@ -1,0 +1,21 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`should render newbie-guide correctly 1`] = `
+<div class="van-newbie-guide">
+  <div class="van-newbie-guide__mask">
+  </div>
+  <div
+    class="van-newbie-guide__content"
+    style="z-index: 100;"
+  >
+    <div class="van-newbie-guide__step-content">
+      Test Content
+    </div>
+    <div class="van-newbie-guide__buttons">
+      <button class="van-newbie-guide__next van-theme-primary">
+        完成
+      </button>
+    </div>
+  </div>
+</div>
+`;

@@ -153,6 +153,10 @@ location.href = location.href.replace('youzan.github.io', 'vant-ui.github.io');
                 path: 'toast',
                 title: 'Toast 轻提示',
               },
+              {
+                path: 'newbie-guide',
+                title: 'NewbieGuide 新手引导',
+              },
             ],
           },
           {
@@ -558,19 +562,19 @@ location.href = location.href.replace('youzan.github.io', 'vant-ui.github.io');
               },
               {
                 path: 'release-note-v4',
-                title: '4.0 Release Note',
+                title: 'Release Note v4',
               },
               {
                 path: 'migrate-from-v2',
-                title: 'Upgrade from v2 to v3',
+                title: 'Migrate from v2',
               },
               {
                 path: 'migrate-from-v3',
-                title: 'Upgrade from v3 to v4',
+                title: 'Migrate from v3',
               },
               {
                 path: 'contribution',
-                title: 'Contribution Guide',
+                title: 'Contribution',
               },
               {
                 path: 'design',
@@ -578,7 +582,7 @@ location.href = location.href.replace('youzan.github.io', 'vant-ui.github.io');
               },
               {
                 path: 'locale',
-                title: 'Internationalization',
+                title: 'Locale',
               },
             ],
           },
@@ -619,11 +623,15 @@ location.href = location.href.replace('youzan.github.io', 'vant-ui.github.io');
               },
               {
                 path: 'style',
-                title: 'Built-in style',
+                title: 'Style',
               },
               {
                 path: 'toast',
                 title: 'Toast',
+              },
+              {
+                path: 'newbie-guide',
+                title: 'NewbieGuide',
               },
             ],
           },
